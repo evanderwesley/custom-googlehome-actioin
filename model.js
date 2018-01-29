@@ -1,5 +1,5 @@
 /**
- * Created by snake on 6/29/2017.
+ * Created by Evander on 6/29/2017.
  */
 let mongoose = require('mongoose'),
     Schema = mongoose.Schema,

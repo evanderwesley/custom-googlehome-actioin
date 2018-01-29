@@ -1,5 +1,5 @@
 /**
- * Created by snake on 6/29/2017.
+ * Created by Evander on 6/29/2017.
  */
 const fetch = require('node-fetch');
 const config = require('./../oAuth/config-provider');

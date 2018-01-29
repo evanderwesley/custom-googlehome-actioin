@@ -1,5 +1,5 @@
 /**
- * Created by snake on 6/21/2017.
+ * Created by Evander on 6/21/2017.
  */
 let mosca = require('mosca');
 let authstore = require('./../model');
