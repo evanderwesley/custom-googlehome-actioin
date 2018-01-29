@@ -1,0 +1,17 @@
+{
+  "name": "hardware-box",
+  "version": "1.0.0",
+  "description": "Testing mqtt communication on hardware box",
+  "main": "mqtt-client.js",
+  "scripts": {
+    "test": "node mqtt-client.js"
+  },
+  "keywords": [
+    "hardware-box"
+  ],
+  "author": "Wenwei",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^2.9.0"
+  }
+}

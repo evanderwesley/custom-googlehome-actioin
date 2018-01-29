@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="19b7cf38-e99f-49b2-a440-a47846a336b7" name="cloud" url="http://jib.touchpanelcontrol.com">
+        <fileTransfer host="jib.touchpanelcontrol.com" port="22" privateKey="D:\Projects\06-googlehome\Credentials\google_wenwei.ppk" rootFolder="/home/wenwei" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,263 @@
+2017-07-02 12:15:34.749 INFO  connected to MQTT server 
+2017-07-02 12:15:38.980 INFO  Sync 
+2017-07-02 12:15:38.980 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 12:15:38.989 INFO  Sync Successful 
+2017-07-02 12:17:13.923 INFO  connected to MQTT server 
+2017-07-02 12:17:17.277 INFO  Sync 
+2017-07-02 12:17:17.277 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 12:17:17.282 INFO  Sync Successful 
+2017-07-02 12:17:50.781 INFO  connected to MQTT server 
+2017-07-02 12:20:06.690 INFO  connected to MQTT server 
+2017-07-02 12:22:09.793 INFO  connected to MQTT server 
+2017-07-02 12:23:49.028 INFO  connected to MQTT server 
+2017-07-02 12:25:20.178 INFO  connected to MQTT server 
+2017-07-02 12:25:23.896 INFO  Sync 
+2017-07-02 12:25:23.896 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 12:25:23.919 INFO  Sync Successful 
+2017-07-02 12:28:11.476 INFO  connected to MQTT server 
+2017-07-02 12:28:13.869 INFO  Sync 
+2017-07-02 12:28:13.869 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 12:28:13.881 INFO  Sync Successful 
+2017-07-02 12:33:08.875 INFO  connected to MQTT server 
+2017-07-02 12:36:19.425 INFO  connected to MQTT server 
+2017-07-02 12:36:22.025 INFO  Sync 
+2017-07-02 12:36:22.025 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 12:36:22.037 INFO  Sync Successful 
+2017-07-02 12:38:56.314 INFO  connected to MQTT server 
+2017-07-02 12:40:37.360 INFO  connected to MQTT server 
+2017-07-02 12:41:27.855 INFO  connected to MQTT server 
+2017-07-02 12:41:30.058 INFO  Sync 
+2017-07-02 12:41:30.058 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 12:41:30.082 INFO  Sync Successful 
+2017-07-02 12:42:51.164 INFO  connected to MQTT server 
+2017-07-02 12:42:56.348 INFO  Sync 
+2017-07-02 12:42:56.348 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 12:42:56.364 INFO  Sync Successful 
+2017-07-02 12:43:31.164 INFO  connected to MQTT server 
+2017-07-02 12:43:33.722 INFO  Sync 
+2017-07-02 12:43:33.722 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 12:43:33.734 INFO  Sync Successful 
+2017-07-02 12:44:41.128 INFO  connected to MQTT server 
+2017-07-02 12:47:13.363 INFO  connected to MQTT server 
+2017-07-02 12:49:57.924 INFO  connected to MQTT server 
+2017-07-02 12:52:26.988 INFO  connected to MQTT server 
+2017-07-02 12:52:29.845 INFO  Sync 
+2017-07-02 12:52:29.845 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 12:52:29.848 INFO  Sync Successful 
+2017-07-02 12:53:32.755 INFO  connected to MQTT server 
+2017-07-02 12:53:35.076 INFO  Sync 
+2017-07-02 12:53:35.076 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 12:53:35.094 INFO  Sync Successful 
+2017-07-02 12:57:09.872 INFO  connected to MQTT server 
+2017-07-02 12:58:08.280 INFO  connected to MQTT server 
+2017-07-02 12:58:12.437 INFO  Sync 
+2017-07-02 12:58:12.437 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 12:58:12.443 INFO  Sync Successful 
+2017-07-02 12:58:57.980 INFO  connected to MQTT server 
+2017-07-02 12:59:31.848 INFO  connected to MQTT server 
+2017-07-02 13:00:20.809 INFO  connected to MQTT server 
+2017-07-02 13:02:46.649 INFO  connected to MQTT server 
+2017-07-02 13:02:50.031 INFO  Sync 
+2017-07-02 13:02:50.031 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 13:02:50.056 INFO  Sync Successful 
+2017-07-02 13:03:58.718 INFO  connected to MQTT server 
+2017-07-02 13:04:01.529 INFO  Sync 
+2017-07-02 13:04:01.529 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 13:04:01.538 INFO  Sync Successful 
+2017-07-02 13:04:08.138 INFO  Sync 
+2017-07-02 13:04:08.139 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 13:04:08.149 INFO  Sync Successful 
+2017-07-02 13:04:09.329 INFO  Sync 
+2017-07-02 13:04:09.329 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 13:04:09.334 INFO  Sync Successful 
+2017-07-02 13:04:10.699 INFO  Sync 
+2017-07-02 13:04:10.699 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 13:04:10.701 INFO  Sync Successful 
+2017-07-02 13:04:11.792 INFO  Sync 
+2017-07-02 13:04:11.792 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 13:04:11.799 INFO  Sync Successful 
+2017-07-02 13:04:12.456 INFO  Sync 
+2017-07-02 13:04:12.456 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 13:04:12.461 INFO  Sync Successful 
+2017-07-02 13:04:13.408 INFO  Sync 
+2017-07-02 13:04:13.408 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 13:04:13.415 INFO  Sync Successful 
+2017-07-02 13:04:14.324 INFO  Sync 
+2017-07-02 13:04:14.324 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 13:04:14.330 INFO  Sync Successful 
+2017-07-02 13:04:15.687 INFO  Sync 
+2017-07-02 13:04:15.687 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 13:04:15.689 INFO  Sync Successful 
+2017-07-02 13:12:40.688 INFO  connected to MQTT server 
+2017-07-02 13:12:45.917 INFO  Sync 
+2017-07-02 13:12:45.917 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 13:12:45.925 INFO  Sync Successful 
+2017-07-02 13:12:47.478 INFO  Sync 
+2017-07-02 13:12:47.478 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 13:12:47.481 INFO  Sync Successful 
+2017-07-02 13:12:48.491 INFO  Sync 
+2017-07-02 13:12:48.491 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 13:12:48.494 INFO  Sync Successful 
+2017-07-02 13:12:49.419 INFO  Sync 
+2017-07-02 13:12:49.419 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 13:12:49.423 INFO  Sync Successful 
+2017-07-02 14:37:23.734 INFO  connected to MQTT server 
+2017-07-02 19:42:56.382 INFO  connected to MQTT server 
+2017-07-02 19:58:30.742 INFO  Sync 
+2017-07-02 19:58:30.742 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 19:58:30.766 INFO  Sync Successful 
+2017-07-02 19:58:33.291 INFO  Sync 
+2017-07-02 19:58:33.291 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-02 19:58:33.302 INFO  Sync Successful 
+2017-07-02 20:02:47.723 INFO  query 
+2017-07-02 20:02:47.723 INFO  At: %s, content: %suser/rick/query["3","2","4","1"] 
+2017-07-02 20:02:47.725 INFO  smartHomeQueryStates devices: {"1":{"on":false,"online":true,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}},"2":{"on":false,"online":false,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}},"3":{"on":false,"online":false,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}},"4":{"on":false,"online":false,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}}} 
+2017-07-02 20:02:47.726 INFO  Query Successful 
+2017-07-02 20:18:32.706 INFO  Exec 
+2017-07-02 20:18:32.706 INFO  At: %s, content: %suser/rick/exec{"type":"exec","content":{"commands":[{"devices":[{"customData":{"smartHomeProviderId":"FkldJVJCmDNSaoLkoq0txiz8Byf2Hr"},"id":"3"},{"customData":{"smartHomeProviderId":"FkldJVJCmDNSaoLkoq0txiz8Byf2Hr"},"id":"2"},{"customData":{"smartHomeProviderId":"FkldJVJCmDNSaoLkoq0txiz8Byf2Hr"},"id":"4"},{"customData":{"smartHomeProviderId":"FkldJVJCmDNSaoLkoq0txiz8Byf2Hr"},"id":"1"}],"execution":[{"command":"action.devices.commands.OnOff","params":{"on":false}}]}]}} 
+2017-07-02 20:18:32.716 INFO  RespCommands: %s[[{"ids":["3"],"status":"SUCCESS","states":{"on":false,"online":false,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}}},{"ids":["2"],"status":"SUCCESS","states":{"on":false,"online":false,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}}},{"ids":["4"],"status":"SUCCESS","states":{"on":false,"online":false,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}}},{"ids":["1"],"status":"SUCCESS","states":{"on":false,"online":true,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}}}]] 
+2017-07-02 20:18:32.716 INFO  Executed successful 
+2017-07-02 20:18:48.191 INFO  query 
+2017-07-02 20:18:48.191 INFO  At: %s, content: %suser/rick/query["3","2","4","1"] 
+2017-07-02 20:18:48.192 INFO  smartHomeQueryStates devices: {"1":{"on":false,"online":true,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}},"2":{"on":false,"online":false,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}},"3":{"on":false,"online":false,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}},"4":{"on":false,"online":false,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}}} 
+2017-07-02 20:18:48.193 INFO  Query Successful 
+2017-07-02 20:21:45.507 INFO  Exec 
+2017-07-02 20:21:45.508 INFO  At: %s, content: %suser/rick/exec{"type":"exec","content":{"commands":[{"devices":[{"customData":{"smartHomeProviderId":"FkldJVJCmDNSaoLkoq0txiz8Byf2Hr"},"id":"1"}],"execution":[{"command":"action.devices.commands.OnOff","params":{"on":false}}]}]}} 
+2017-07-02 20:21:45.509 INFO  RespCommands: %s[[{"ids":["1"],"status":"SUCCESS","states":{"on":false,"online":true,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}}}]] 
+2017-07-02 20:21:45.509 INFO  Executed successful 
+2017-07-02 20:21:52.762 INFO  Exec 
+2017-07-02 20:21:52.762 INFO  At: %s, content: %suser/rick/exec{"type":"exec","content":{"commands":[{"devices":[{"customData":{"smartHomeProviderId":"FkldJVJCmDNSaoLkoq0txiz8Byf2Hr"},"id":"1"}],"execution":[{"command":"action.devices.commands.OnOff","params":{"on":true}}]}]}} 
+2017-07-02 20:21:52.779 INFO  RespCommands: %s[[{"ids":["1"],"status":"SUCCESS","states":{"on":true,"online":true,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}}}]] 
+2017-07-02 20:21:52.780 INFO  Executed successful 
+2017-07-02 23:21:52.767 INFO  connected to MQTT server 
+2017-07-02 23:30:51.251 INFO  connected to MQTT server 
+2017-07-03 00:01:57.827 INFO  connected to MQTT server 
+2017-07-03 00:12:52.483 INFO  connected to MQTT server 
+2017-07-03 00:17:10.247 INFO  connected to MQTT server 
+2017-07-03 00:40:08.344 INFO  connected to MQTT server 
+2017-07-03 00:40:14.382 INFO  connected to MQTT server 
+2017-07-03 01:13:34.836 INFO  connected to MQTT server 
+2017-07-03 01:19:59.462 INFO  connected to MQTT server 
+2017-07-03 01:23:03.417 INFO  connected to MQTT server 
+2017-07-03 01:30:56.365 INFO  connected to MQTT server 
+2017-07-03 01:35:03.567 INFO  connected to MQTT server 
+2017-07-03 02:12:02.246 INFO  connected to MQTT server 
+2017-07-03 02:22:29.471 INFO  connected to MQTT server 
+2017-07-03 02:27:03.853 INFO  connected to MQTT server 
+2017-07-03 02:52:02.224 INFO  connected to MQTT server 
+2017-07-03 02:52:19.835 INFO  connected to MQTT server 
+2017-07-03 02:53:24.279 INFO  connected to MQTT server 
+2017-07-03 03:09:34.143 INFO  connected to MQTT server 
+2017-07-03 05:55:57.931 INFO  connected to MQTT server 
+2017-07-03 06:09:39.494 INFO  connected to MQTT server 
+2017-07-03 06:12:24.146 INFO  connected to MQTT server 
+2017-07-03 06:54:34.973 INFO  connected to MQTT server 
+2017-07-03 07:46:55.264 INFO  connected to MQTT server 
+2017-07-03 08:02:42.989 INFO  connected to MQTT server 
+2017-07-03 08:02:47.999 INFO  connected to MQTT server 
+2017-07-03 08:02:57.574 INFO  Alexa Discover 
+2017-07-03 08:02:57.574 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 08:02:57.575 INFO  Alexa Discover is successful. 
+2017-07-03 08:04:19.635 INFO  connected to MQTT server 
+2017-07-03 08:04:24.926 INFO  connected to MQTT server 
+2017-07-03 08:04:31.053 INFO  Alexa Discover 
+2017-07-03 08:04:31.053 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 08:04:31.053 INFO  Alexa Discover is successful. 
+2017-07-03 08:06:09.514 INFO  connected to MQTT server 
+2017-07-03 08:06:14.875 INFO  Alexa Discover 
+2017-07-03 08:06:14.875 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 08:06:14.875 INFO  Alexa Discover is successful. 
+2017-07-03 08:06:43.031 INFO  Alexa Discover 
+2017-07-03 08:06:43.031 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 08:06:43.031 INFO  Alexa Discover is successful. 
+2017-07-03 08:24:54.337 INFO  connected to MQTT server 
+2017-07-03 08:25:12.961 INFO  connected to MQTT server 
+2017-07-03 13:22:26.916 INFO  Alexa Discover 
+2017-07-03 13:22:26.916 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 13:22:26.918 INFO  Alexa Discover is successful. 
+2017-07-03 13:22:27.650 INFO  Alexa Discover 
+2017-07-03 13:22:27.650 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 13:22:27.651 INFO  Alexa Discover is successful. 
+2017-07-03 13:22:28.272 INFO  Alexa Discover 
+2017-07-03 13:22:28.272 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 13:22:28.273 INFO  Alexa Discover is successful. 
+2017-07-03 13:22:28.873 INFO  Alexa Discover 
+2017-07-03 13:22:28.873 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 13:22:28.873 INFO  Alexa Discover is successful. 
+2017-07-03 13:23:00.788 INFO  Alexa Discover 
+2017-07-03 13:23:00.789 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 13:23:00.790 INFO  Alexa Discover is successful. 
+2017-07-03 13:23:01.427 INFO  Alexa Discover 
+2017-07-03 13:23:01.428 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 13:23:01.428 INFO  Alexa Discover is successful. 
+2017-07-03 13:23:01.981 INFO  Alexa Discover 
+2017-07-03 13:23:01.981 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 13:23:01.981 INFO  Alexa Discover is successful. 
+2017-07-03 13:23:02.571 INFO  Alexa Discover 
+2017-07-03 13:23:02.571 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 13:23:02.571 INFO  Alexa Discover is successful. 
+2017-07-03 13:23:23.706 INFO  Alexa Discover 
+2017-07-03 13:23:23.706 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 13:23:23.707 INFO  Alexa Discover is successful. 
+2017-07-03 13:23:24.295 INFO  Alexa Discover 
+2017-07-03 13:23:24.295 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 13:23:24.297 INFO  Alexa Discover is successful. 
+2017-07-03 13:23:24.904 INFO  Alexa Discover 
+2017-07-03 13:23:24.904 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 13:23:24.905 INFO  Alexa Discover is successful. 
+2017-07-03 13:23:25.482 INFO  Alexa Discover 
+2017-07-03 13:23:25.482 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 13:23:25.483 INFO  Alexa Discover is successful. 
+2017-07-03 13:35:48.645 INFO  Control 
+2017-07-03 13:35:48.645 INFO  At: %s, content: %suser/rick/control 
+2017-07-03 13:35:48.646 INFO  Alexa Discover is successful. 
+2017-07-03 13:41:47.813 INFO  connected to MQTT server 
+2017-07-03 13:42:51.799 INFO  connected to MQTT server 
+2017-07-03 13:43:16.294 INFO  Control 
+2017-07-03 13:43:16.294 INFO  At: %s, content: %suser/rick/control 
+2017-07-03 13:43:16.304 INFO  Alexa Discover is successful. 
+2017-07-03 13:51:25.586 INFO  connected to MQTT server 
+2017-07-03 13:51:29.437 INFO  connected to MQTT server 
+2017-07-03 13:51:38.500 INFO  Alexa Discover 
+2017-07-03 13:51:38.500 INFO  At: %s, content: %suser/rick/discover{"type":"discover","content":"discover"} 
+2017-07-03 13:51:38.506 INFO  Alexa Discover is successful. 
+2017-07-03 13:52:31.864 INFO  connected to MQTT server 
+2017-07-03 13:52:39.895 INFO  connected to MQTT server 
+2017-07-03 13:52:57.482 INFO  connected to MQTT server 
+2017-07-03 13:56:18.753 INFO  connected to MQTT server 
+2017-07-03 14:01:11.125 INFO  connected to MQTT server 
+2017-07-03 14:01:18.405 INFO  connected to MQTT server 
+2017-07-03 14:01:50.696 INFO  Control 
+2017-07-03 14:01:50.696 INFO  At: %s, content: %suser/rick/control{"type":"control","content":{"commands":{"uid":"1234","auth":"psokmCxKjfhk7qHLeYd1","devices":{"devices":"39003d000447343232363230","confirmation":"TurnOffConfirmation","state":0,"funcName":"onoff"}}}} 
+2017-07-03 14:01:50.697 INFO  Alexa Discover is successful. 
+2017-07-03 14:03:08.121 INFO  connected to MQTT server 
+2017-07-03 14:03:50.071 INFO  Control 
+2017-07-03 14:03:50.071 INFO  At: %s, content: %suser/rick/control{"type":"control","content":{"commands":{"uid":"1234","auth":"psokmCxKjfhk7qHLeYd1","devices":{"devices":"39003d000447343232363230","confirmation":"TurnOnConfirmation","state":1,"funcName":"onoff"}}}} 
+2017-07-03 14:03:50.072 INFO  Alexa Discover is successful. 
+2017-07-03 14:03:59.937 INFO  Control 
+2017-07-03 14:03:59.937 INFO  At: %s, content: %suser/rick/control{"type":"control","content":{"commands":{"uid":"1234","auth":"psokmCxKjfhk7qHLeYd1","devices":{"devices":"39003d000447343232363230","confirmation":"TurnOffConfirmation","state":0,"funcName":"onoff"}}}} 
+2017-07-03 14:03:59.938 INFO  Alexa Discover is successful. 
+2017-07-03 14:04:07.867 INFO  Control 
+2017-07-03 14:04:07.867 INFO  At: %s, content: %suser/rick/control{"type":"control","content":{"commands":{"uid":"1234","auth":"psokmCxKjfhk7qHLeYd1","devices":{"devices":"39003d000447343232363230","confirmation":"TurnOnConfirmation","state":1,"funcName":"onoff"}}}} 
+2017-07-03 14:04:07.867 INFO  Alexa Discover is successful. 
+2017-07-03 14:18:40.680 INFO  Control 
+2017-07-03 14:18:40.680 INFO  At: %s, content: %suser/rick/control{"type":"control","content":{"commands":{"uid":"1234","auth":"psokmCxKjfhk7qHLeYd1","devices":{"devices":"39003d000447343232363230","confirmation":"TurnOffConfirmation","state":0,"funcName":"onoff"}}}} 
+2017-07-03 14:18:40.681 INFO  Alexa Discover is successful. 
+2017-07-03 14:19:20.135 INFO  Exec 
+2017-07-03 14:19:20.135 INFO  At: %s, content: %suser/rick/exec{"type":"exec","content":{"commands":[{"devices":[{"customData":{"smartHomeProviderId":"FkldJVJCmDNSaoLkoq0txiz8Byf2Hr"},"id":"2"}],"execution":[{"command":"action.devices.commands.OnOff","params":{"on":false}}]}]}} 
+2017-07-03 14:19:20.150 INFO  RespCommands: %s[[{"ids":["2"],"status":"SUCCESS","states":{"on":false,"online":false,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}}}]] 
+2017-07-03 14:19:20.151 INFO  Executed successful 
+2017-07-03 14:19:28.610 INFO  query 
+2017-07-03 14:19:28.610 INFO  At: %s, content: %suser/rick/query["3","2","4","1"] 
+2017-07-03 14:19:28.612 INFO  smartHomeQueryStates devices: {"1":{"on":false,"online":true,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}},"2":{"on":false,"online":false,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}},"3":{"on":false,"online":false,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}},"4":{"on":false,"online":false,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}}} 
+2017-07-03 14:19:28.612 INFO  Query Successful 
+2017-07-03 14:19:41.762 INFO  Exec 
+2017-07-03 14:19:41.762 INFO  At: %s, content: %suser/rick/exec{"type":"exec","content":{"commands":[{"devices":[{"customData":{"smartHomeProviderId":"FkldJVJCmDNSaoLkoq0txiz8Byf2Hr"},"id":"2"}],"execution":[{"command":"action.devices.commands.OnOff","params":{"on":true}}]}]}} 
+2017-07-03 14:19:41.763 INFO  RespCommands: %s[[{"ids":["2"],"status":"SUCCESS","states":{"on":true,"online":false,"brightness":80,"color":{"name":"cerulian","spectrumRGB":31655}}}]] 
+2017-07-03 14:19:41.764 INFO  Executed successful 
+2017-07-03 14:20:28.049 INFO  Sync 
+2017-07-03 14:20:28.049 INFO  At: %s, content: %suser/rick/sync{"type":"sync","content":"syncing"} 
+2017-07-03 14:20:28.057 INFO  Sync Successful 
+2017-07-18 00:22:07.634 INFO  connected to MQTT server 
+2017-07-18 00:23:20.052 INFO  connected to MQTT server 
+2017-07-18 00:24:53.359 INFO  connected to MQTT server 
